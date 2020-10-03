@@ -1,0 +1,34 @@
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.exe
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.AssemblyInfoInputs.cache
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.AssemblyInfo.cs
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.csproj.CopyComplete
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.deps.json
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.runtimeconfig.json
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.runtimeconfig.dev.json
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.dll
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.pdb
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.dll
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.pdb
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.genruntimeconfig.cache
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.csproj.CoreCompileInputs.cache
+C:\Users\teraz\source\repos\OZI_lab1\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.csprojAssemblyReference.cache
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.exe
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.deps.json
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.runtimeconfig.json
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.runtimeconfig.dev.json
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.dll
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\OZI_lab2_infocollector.pdb
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.csprojAssemblyReference.cache
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.csproj.CoreCompileInputs.cache
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.AssemblyInfoInputs.cache
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.AssemblyInfo.cs
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.csproj.CopyComplete
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.dll
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.pdb
+C:\Users\deyad\Desktop\4course\labs_ozi 1\InformationSecurity\OZI_lab2_infocollector\obj\Debug\netcoreapp3.1\OZI_lab2_infocollector.genruntimeconfig.cache
